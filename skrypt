@@ -1,0 +1,6 @@
+echo "# gach_wyjatek" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hades13542/gach_wyjatek.git
+git push -u origin master
